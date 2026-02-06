@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <b>Join us on Discord!</b><br>
-  Mods, updates, leaks, and stupid talk idk what ever you expect i guess.
+  <b>Join Us In Discord!</b><br>
+  Mods, tools, and talking, and whatever you expect i guess.. (BOOST IT)
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/b24b23a5-b57a-44e2-a725-c9de58951023"
+    src="https://github.com/user-attachments/assets/bbecc0ba-5b30-4483-9bf4-77bfb7abaf0b"
     width="80"
     height="80"
     alt="1"
@@ -35,8 +35,8 @@
 </p>
 
 <p align="center">
-  <b>Join us on Discord!</b><br>
-  Mods, updates, leaks, and stupid talk idk what ever you expect i guess.
+  <b>Subcribe To My Channel!</b><br>
+  I Showcase mods, tools, and more! I Will also release special mods at milestones.
 </p>
 
 <p align="center">
