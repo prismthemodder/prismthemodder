@@ -1,4 +1,4 @@
-## Hello there 👋!
+# Hello there 👋!
 
-## Creator Of Prism Menu..
-# and most menus with prism in the name.. of course....
+# Creator Of Prism Menu..
+## and most menus with prism in the name.. of course....
