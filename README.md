@@ -43,3 +43,21 @@
   <a href="https://www.youtube.com/@prismthemodder">
     🔗 https://www.youtube.com/@prismthemodder
   </a>
+
+
+
+
+
+
+
+
+
+
+
+##  🛠️ My Current Projects
+
+I am working on a STANDALONE VSTUMP Menu for gorilla tag!
+
+I am working on a STEAM gorilla tag mod menu!
+
+The rest are SERECTS!
